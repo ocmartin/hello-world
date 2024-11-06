@@ -1,5 +1,5 @@
 # hello-world
-Some learnig with GitHub
-Willing to get involve with other projects
-Interested in C++ and Phyon
+Some learning with GitHub
+Willing to get involved with other projects
+Interested in C++ and Phyton
 First example
